@@ -1,3 +1,4 @@
+
 const mysql = require('mysql2/promise');
 require('dotenv').config();
 
@@ -7,9 +8,11 @@ const db = mysql.createPool({
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
     database: process.env.DB_NAME,
+
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0,
+
     ssl: {
         rejectUnauthorized: true,
         ca: process.env.DB_SSL_CA
