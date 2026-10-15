@@ -155,9 +155,7 @@ Computer Science and Engineering Student
 ---
 
 *CampusFind is a student project designed to make campus lost-and-found reporting more convenient.*
+## 🔗 Links
 
-## 🔗 Live Demo
-
-**Live Website:** [Open CampusFind](YOUR_DEPLOYED_FRONTEND_URL)
-
-**GitHub Repository:** [View Source Code](https://github.com/TadepalliMeghana/CampusFind)
+- **Source Code:** [CampusFind on GitHub](https://github.com/TadepalliMeghana/CampusFind)
+- **Live Demo:** Coming soon — deployment in progress.
