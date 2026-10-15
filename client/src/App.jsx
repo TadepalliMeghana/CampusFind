@@ -2,7 +2,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 
-const API_URL = 'http://localhost:5000/api/items';
+const API_URL = 'https://campusfind-feg1.onrender.com/api/items';
 
 const createEmptyForm = () => ({
     type: 'lost',
