@@ -10,7 +10,10 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-    origin: 'http://localhost:5173'
+    origin: [
+        'http://localhost:5173',
+        'https://campus-find-snowy.vercel.app'
+    ]
 }));
 app.use(express.json());
 
