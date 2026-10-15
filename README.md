@@ -158,7 +158,4 @@ Computer Science and Engineering Student
 
 ## 🚀 Projects
 
-
-- **Frontend Demo:** [Open CampusFind](http://localhost:5173/) — View and search lost and found listings.
-- **Backend API:** [View Items API](http://localhost:5000/api/items) — Retrieve item listings from the backend.
-- **Source Code:** [CampusFind on GitHub](https://github.com/TadepalliMeghana/CampusFind) — Explore the project code.
+**Live Demo:** [CampusFind](https://campus-find-snowy.vercel.app/)
