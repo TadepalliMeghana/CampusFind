@@ -1,5 +1,6 @@
 # CampusFind — Campus Lost and Found
 
+**Live Demo:** [CampusFind](https://campus-find-snowy.vercel.app/)
 CampusFind is a web application that helps students report, search for, and find lost belongings on campus. It provides a central place to post lost and found items, making it easier for students to reconnect with their belongings.
 
 ## Features
@@ -157,5 +158,3 @@ Computer Science and Engineering Student
 *CampusFind is a student project designed to make campus lost-and-found reporting more convenient.*
 
 ## 🚀 Projects
-
-**Live Demo:** [CampusFind](https://campus-find-snowy.vercel.app/)
